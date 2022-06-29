@@ -1,0 +1,33 @@
+@import 'colors';
+
+.title {
+    color: $dark-gray;
+    font-weight: bolder;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+.title2{
+  color: $dark-gray;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 1.8rem;
+}
+  
+.text {
+  color: $grayish-blue;
+  font-size: .9rem;
+  padding: 1rem;
+  line-height: 22px;
+  text-align: center;
+}
+
+.buttons .mac {
+  background-color: $light-blue;
+  box-shadow: inset -2px -2px 2px hsl(233, 65%, 50%);
+}
+
+.buttons .ios {
+  background-color: $strong-cyan;
+  box-shadow: inset -2px -2px 2px hsl(171, 86%, 25%);
+}
