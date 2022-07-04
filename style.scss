@@ -117,7 +117,7 @@ main {
     padding-top: 4rem;
   }
 
-  @media screen and (min-width: 767px) {
+  @media screen and (min-width: 1400px) {
 
     header {
       background-image: url(clipboard-landing-page-master/images/bg-header-desktop.png);
@@ -160,7 +160,7 @@ main {
       .mini-cards .card .title, .mini-cards .card .text{
         text-align: start;
         padding-left: 0;
-        padding-right: 22.2rem;
+        padding-right: 5.2rem;
       }
     }
   }

@@ -133,7 +133,7 @@ main .sponsorship .row .col-md-2 {
 main .clip {
   padding-top: 4rem;
 }
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 1400px) {
   main header {
     background-image: url(clipboard-landing-page-master/images/bg-header-desktop.png);
     display: none;
@@ -166,7 +166,7 @@ main .clip {
   main .cards .row .mini-cards .card .title, main .cards .row .mini-cards .card .text {
     text-align: start;
     padding-left: 0;
-    padding-right: 22.2rem;
+    padding-right: 5.2rem;
   }
 }
 
